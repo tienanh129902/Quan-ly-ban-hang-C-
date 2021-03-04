@@ -8,6 +8,7 @@ namespace QuanLyCafe
 {
     static class Program
     {
+        int a;
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
