@@ -1,0 +1,88 @@
+E:\DoAnC#Tien\Moi\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DoAnC#Tien\Moi\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.fr_Congdung.resources
+E:\DoAnC#Tien\Moi\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.fr_CTHDB.resources
+E:\DoAnC#Tien\Moi\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.fr_CTHDN.resources
+E:\DoAnC#Tien\Moi\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_HDB.resources
+E:\DoAnC#Tien\Moi\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_HDN.resources
+E:\DoAnC#Tien\Moi\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_Khachhang.resources
+E:\DoAnC#Tien\Moi\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_Loai.resources
+E:\DoAnC#Tien\Moi\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_Main.resources
+E:\DoAnC#Tien\Moi\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_NCC.resources
+E:\DoAnC#Tien\Moi\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_Nhanvien.resources
+E:\DoAnC#Tien\Moi\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_Que.resources
+E:\DoAnC#Tien\Moi\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_Sanpham.resources
+E:\DoAnC#Tien\Moi\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_TKHDB.resources
+E:\DoAnC#Tien\Moi\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Properties.Resources.resources
+E:\DoAnC#Tien\Moi\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DoAnC#Tien\Moi\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DoAnC#Tien\Moi\QuanLyCafe\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+E:\DoAnC#Tien\Moi\QuanLyCafe\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+E:\DoAnC#Tien\Moi\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.exe
+E:\DoAnC#Tien\Moi\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.pdb
+E:\DoAnC#Tien\Moi\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_DangNhap.resources
+E:\DoAnC#Tien\Moi\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_Ketnoi.resources
+E:\DoAnC#Tien\Moi\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.csproj.ResolveComReference.cache
+E:\DoAnC#Tien\Moi\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_Splash_Screen.resources
+E:\DoAnC#Tien\Moi\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_TK_SP.resources
+E:\DoAnC#Tien\Moi\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_BC_Quy_HDB.resources
+E:\DoAnC#Tien\Moi\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_BC_Quy_KH.resources
+E:\DoAnC#Tien\Moi\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_BC_Quy_SP.resources
+D:\cafe\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+D:\cafe\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+D:\cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.csprojAssemblyReference.cache
+D:\cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.csproj.ResolveComReference.cache
+D:\cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_BC_Quy_HDB.resources
+D:\cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_BC_Quy_KH.resources
+D:\cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_BC_Quy_SP.resources
+D:\cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.fr_Congdung.resources
+D:\cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.fr_CTHDB.resources
+D:\cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.fr_CTHDN.resources
+D:\cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_DangNhap.resources
+D:\cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_HDB.resources
+D:\cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_HDN.resources
+D:\cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_Ketnoi.resources
+D:\cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_Khachhang.resources
+D:\cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_Loai.resources
+D:\cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_Main.resources
+D:\cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_NCC.resources
+D:\cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_Nhanvien.resources
+D:\cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_Que.resources
+D:\cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_Sanpham.resources
+D:\cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_Splash_Screen.resources
+D:\cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_TKHDB.resources
+D:\cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_TK_SP.resources
+D:\cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Properties.Resources.resources
+D:\cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.csproj.GenerateResource.cache
+D:\cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.csproj.CoreCompileInputs.cache
+D:\cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.exe
+D:\cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.pdb
+D:\Quản lý quán cafe\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+D:\Quản lý quán cafe\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+D:\Quản lý quán cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.csprojAssemblyReference.cache
+D:\Quản lý quán cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.csproj.ResolveComReference.cache
+D:\Quản lý quán cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_BC_Quy_HDB.resources
+D:\Quản lý quán cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_BC_Quy_KH.resources
+D:\Quản lý quán cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_BC_Quy_SP.resources
+D:\Quản lý quán cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.fr_Congdung.resources
+D:\Quản lý quán cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.fr_CTHDB.resources
+D:\Quản lý quán cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.fr_CTHDN.resources
+D:\Quản lý quán cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_DangNhap.resources
+D:\Quản lý quán cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_HDB.resources
+D:\Quản lý quán cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_HDN.resources
+D:\Quản lý quán cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_Ketnoi.resources
+D:\Quản lý quán cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_Khachhang.resources
+D:\Quản lý quán cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_Loai.resources
+D:\Quản lý quán cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_Main.resources
+D:\Quản lý quán cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_NCC.resources
+D:\Quản lý quán cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_Nhanvien.resources
+D:\Quản lý quán cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_Que.resources
+D:\Quản lý quán cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_Sanpham.resources
+D:\Quản lý quán cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_Splash_Screen.resources
+D:\Quản lý quán cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_TKHDB.resources
+D:\Quản lý quán cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Presentation.fr_TK_SP.resources
+D:\Quản lý quán cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.Properties.Resources.resources
+D:\Quản lý quán cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.csproj.GenerateResource.cache
+D:\Quản lý quán cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.csproj.CoreCompileInputs.cache
+D:\Quản lý quán cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.exe
+D:\Quản lý quán cafe\QuanLyCafe\QuanLyCafe\obj\x86\Debug\QuanLyCafe.pdb
+D:\Quản lý quán cafe\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
